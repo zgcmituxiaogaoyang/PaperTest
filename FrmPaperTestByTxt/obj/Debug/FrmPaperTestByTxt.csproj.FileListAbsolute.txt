@@ -1,0 +1,9 @@
+D:\C_Test\FrmPaperTestByTxt\FrmPaperTestByTxt\bin\Debug\FrmPaperTestByTxt.exe.config
+D:\C_Test\FrmPaperTestByTxt\FrmPaperTestByTxt\bin\Debug\FrmPaperTestByTxt.exe
+D:\C_Test\FrmPaperTestByTxt\FrmPaperTestByTxt\bin\Debug\FrmPaperTestByTxt.pdb
+D:\C_Test\FrmPaperTestByTxt\FrmPaperTestByTxt\obj\Debug\FrmPaperTestByTxt.csprojResolveAssemblyReference.cache
+D:\C_Test\FrmPaperTestByTxt\FrmPaperTestByTxt\obj\Debug\FrmPaperTestByTxt.Properties.Resources.resources
+D:\C_Test\FrmPaperTestByTxt\FrmPaperTestByTxt\obj\Debug\FrmPaperTestByTxt.csproj.GenerateResource.Cache
+D:\C_Test\FrmPaperTestByTxt\FrmPaperTestByTxt\obj\Debug\FrmPaperTestByTxt.exe
+D:\C_Test\FrmPaperTestByTxt\FrmPaperTestByTxt\obj\Debug\FrmPaperTestByTxt.pdb
+D:\C_Test\FrmPaperTestByTxt\FrmPaperTestByTxt\obj\Debug\FrmPaperTestByTxt.FrmMain.resources
